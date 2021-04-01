@@ -10,7 +10,7 @@ namespace GITProjectX.Models
         public int MyProperty { get; set; }
         public int MyPropertyAlso { get; set; }
 
-        //this is the one I changed
-        public string ChangedThisProperty { get; set; }
+        //this is the one I changed again
+        public double ChangedThisProperty { get; set; }
     }
 }
