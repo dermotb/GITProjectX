@@ -11,6 +11,7 @@ namespace GITProjectX.Controllers
 {
     public class HomeController : Controller
     {
+        //This stuff came for free
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
