@@ -9,5 +9,7 @@ namespace GITProjectX.Models
     {
         public int MyProperty { get; set; }
         public int MyPropertyAlso { get; set; }
+
+        public int MyNewProperty { get; set; }
     }
 }
